@@ -30,7 +30,7 @@ node index.js
 Once the game has started, use your UP and DOWN arrow keys to highlight your selection and push enter to submit your choice.
 
 
-![flash cards example gif](https://media.giphy.com/media/TfURD964rQmzwOLfyJ/giphy.gif)
+![flash cards example gif](https://media.giphy.com/media/E7jkxLWjuoR2hFr82Y/giphy.gif)
 
 ---
 
