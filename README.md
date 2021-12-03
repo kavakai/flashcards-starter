@@ -4,9 +4,11 @@
 
 [Kai Kuller](https://github.com/kavakai)
 
-## Technology Used
+## Technologies Used
 
 -Javascript
+-Mocha
+-Chai
 
 ## Description
 
