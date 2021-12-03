@@ -27,7 +27,10 @@ class Round {
   }
 
   endRound() {
-    return `** Round over! ** You answered ${this.calculatePercentCorrect()}% of the questions correctly!`;
+    if (this.deck.length === 0) {
+      console.log(`** Round over! ** You answered ${this.calculatePercentCorrect()}% of the questions correctly!`);
+      return `** Round over! ** You answered ${this.calculatePercentCorrect()}% of the questions correctly!`;
+    }
   }
 }
 
