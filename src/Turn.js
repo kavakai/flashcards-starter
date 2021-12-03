@@ -19,13 +19,6 @@ class Turn {
     default:
       return false;
     }
-    // if (this.guess === this.currentCard.correctAnswer) {
-    //     return true;
-    // }
-    // return false;
-    // return this.guess === this.currentCard.correctAnswer ? true : false
-    // const isCorrect = this.guess === this.currentCard.correctAnswer
-    // return isCorrect
   }
 
   giveFeedback() {
